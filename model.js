@@ -12,3 +12,4 @@ const BrandName = mongoose.Schema({
 })
 
 module.exports = mongoose.model('brandname',BrandName)
+
